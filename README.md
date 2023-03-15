@@ -4,7 +4,7 @@
 
 ## **Project Description**
 
-This project is based on from the Google Data Analytics Capstone Project on Cousera. The goal of this portfolio project was to use R programming to analyze fitness tracking data from 30 individuals to inform the marketing decisions of Bellabeat, another fitness tracking company. 
+This project is based on from the Google Data Analytics Capstone Project on Cousera. The goal of this portfolio project was to use R programming to analyze FitBit tracking data from 30 individuals to inform the marketing decisions of Bellabeat, another fitness tracking company. 
 
 R programming was used to analyze the data because of the seamlessness and ease in cleaning, manipulating and visualizing the data. 
 
