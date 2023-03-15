@@ -12,11 +12,11 @@ R programming was used to analyze the data because of the seamlessness and ease 
 
 This repository contains the following: 
 
-* A Juypter notebook report of the entire project: bellabeat_case_study
+* A [Juypter notebook](https://github.com/deengini/bellabeat_capstone_project/blob/main/bellabeat_case_study.ipynb) report of the entire project.
 
-* An R document of the entire cleaning process: project_cleaning
+* An [R document](https://github.com/deengini/bellabeat_capstone_project/blob/main/project_cleaning.R) of the entire cleaning process.
 
-* An R document of the entire visualization process: project_visualization
+* An [R document](https://github.com/deengini/bellabeat_capstone_project/blob/main/project_visualization.R) of the entire visualization process.
 
 ## Challenges
 
