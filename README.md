@@ -8,7 +8,7 @@ This project is based on from the Google Data Analytics Capstone Project on Cous
 
 R programming was used to analyze the data because of the seamlessness and ease in cleaning, manipulating and visualizing the data. 
 
-## **Table Contents**
+## **Table of Contents**
 
 This repository contains the following: 
 
