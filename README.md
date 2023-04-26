@@ -18,7 +18,7 @@ This repository contains the following:
 
 * An [R document](https://github.com/deengini/bellabeat_capstone_project/blob/main/project_visualization.R) of the entire visualization process.
 
-## Challenges
+## **Challenges**
 
 Some of the challenges I faced while completing this project are as follows: 
 
