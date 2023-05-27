@@ -1,6 +1,6 @@
-# bellabeat_capstone_project
+![screenshot](bellabeat_logo.jpeg)
 
-## **Project Bellabeat: How can a Wellness Technology Company Play it Smart?**
+# **Project Bellabeat: How can a Wellness Technology Company Play it Smart?**
 
 ## **Project Description**
 
